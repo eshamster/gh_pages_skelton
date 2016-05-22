@@ -1,5 +1,11 @@
 # Gh-Pages-Skelton
 
+作ってから気づきましたが、Githubに`Automatic Generator`という素敵なものがあるので、別にいらなかった感じです。特殊なスケルトンが欲しくなったらまた必要になるかもしれませんが。
+
+<https://pages.github.com/>
+
+------
+
 GithubでリポジトリごとのHPを作るための`gh-pages`ブランチをコマンド一発で作成するためのスクリプト。
 
 ## create.sh
